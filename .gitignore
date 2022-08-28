@@ -1,0 +1,9 @@
+.tox
+.cache
+.coverage
+.pytest_cache
+venv
+*.pyc
+__pycache__
+*.egg-info
+tests/unittest/smoke_*
