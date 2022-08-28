@@ -1,0 +1,7 @@
+# Operation
+boto3
+configparser
+requests
+bs4
+pycli
+lxml
