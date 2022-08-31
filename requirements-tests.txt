@@ -1,0 +1,7 @@
+# Testing Modules
+placebo
+tox-pyenv
+pytest
+pyflakes
+pytest-cov
+flask
